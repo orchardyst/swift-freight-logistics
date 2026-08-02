@@ -1,6 +1,6 @@
-# Swift Freight Logistics
+# C & E Logistics
 
-A simple static website for Swift Freight Logistics: Home, Services, About, and Contact pages.
+A simple static website for C & E Logistics: Home, Services, About, and Contact pages.
 
 ## Structure
 
